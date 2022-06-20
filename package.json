@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KwonSumin/react-sumin-app/issues"
   },
-  "homepage": "https://github.com/KwonSumin/react-sumin-app#readme"
+  "homepage": "https://github.com/KwonSumin/react-sumin-app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
