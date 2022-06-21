@@ -1,0 +1,5 @@
+//Client React App 생성
+npx create-react-app client
+
+//Node Express Root에서 실행 가능하도록 추가
+npm install express --save
